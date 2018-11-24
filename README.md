@@ -1,2 +1,2 @@
 # PyTorch_datasets-dataloaders
-Various PyTorch Datasets and Dataloader tutorials
+This repository contains various notebooks showing how to create dataloaders/dataset in PyTorch.
